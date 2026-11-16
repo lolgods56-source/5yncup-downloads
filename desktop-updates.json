@@ -72,6 +72,18 @@
     ]
   },
   {
+    "tag_name": "v0.1.2-windows",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "5yncUp-0.1.2-Windows-x64.zip",
+        "state": "uploaded",
+        "digest": "sha256:911ce5edc451450da9e2d298f571b14168f944aa4fca6a519e07e9a71d9a3b10"
+      }
+    ]
+  },
+  {
     "tag_name": "v0.1.2-android",
     "draft": false,
     "prerelease": false,
