@@ -60,6 +60,18 @@
     ]
   },
   {
+    "tag_name": "v0.1.2-android",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "5yncUp-0.1.2-Android.apk",
+        "state": "uploaded",
+        "digest": "sha256:9804b64f95e1ff8822367c1e5d13524ab220b369d9ec64c583aa2f015f67d67d"
+      }
+    ]
+  },
+  {
     "tag_name": "v0.1.1-windows",
     "draft": false,
     "prerelease": false,
