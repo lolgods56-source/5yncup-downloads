@@ -20,5 +20,16 @@
         "state": "uploaded"
       }
     ]
+  },
+  {
+    "tag_name": "v0.1.1-windows",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "5yncUp-0.1.1-Windows-x64.zip",
+        "state": "uploaded"
+      }
+    ]
   }
 ]
