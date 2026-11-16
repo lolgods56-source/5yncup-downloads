@@ -6,7 +6,8 @@
     "assets": [
       {
         "name": "5yncUp-0.2.9-macOS-arm64.zip",
-        "state": "uploaded"
+        "state": "uploaded",
+        "digest": "sha256:7b985194cec1f0d8f880712d3b0f4dbe58b5062dd7512dd43426604f3622aeb1"
       }
     ]
   },
@@ -17,7 +18,8 @@
     "assets": [
       {
         "name": "5yncUp-0.2.8-macOS-arm64.zip",
-        "state": "uploaded"
+        "state": "uploaded",
+        "digest": "sha256:d7f73b9b310eaf6d8d7935b71727d7702e2dd4a979b71b289516160048f262cc"
       }
     ]
   },
@@ -28,7 +30,8 @@
     "assets": [
       {
         "name": "5yncUp-0.2.7-macOS-arm64.zip",
-        "state": "uploaded"
+        "state": "uploaded",
+        "digest": "sha256:553621938cb8d8f2cb0b1210ca060aa560eaf71efd8024da7f36e29e2550eb7d"
       }
     ]
   },
@@ -39,7 +42,8 @@
     "assets": [
       {
         "name": "5yncUp-0.2.6-macOS-arm64.zip",
-        "state": "uploaded"
+        "state": "uploaded",
+        "digest": "sha256:cdb3c5b87241595206c52b64c3b84d6bb13383f073f4c0f57cecb10712efc8a4"
       }
     ]
   },
@@ -50,7 +54,8 @@
     "assets": [
       {
         "name": "5yncUp-0.2.5-macOS-arm64.zip",
-        "state": "uploaded"
+        "state": "uploaded",
+        "digest": "sha256:2893509592e8061ef4124997bc1ef42c6281c861c60cce5dee5e68fdf3d894c1"
       }
     ]
   },
@@ -61,7 +66,8 @@
     "assets": [
       {
         "name": "5yncUp-0.1.1-Windows-x64.zip",
-        "state": "uploaded"
+        "state": "uploaded",
+        "digest": "sha256:318525f45e84935431877ce24682032e9a3f5bc522111c01bf1471eaa1777be1"
       }
     ]
   }
