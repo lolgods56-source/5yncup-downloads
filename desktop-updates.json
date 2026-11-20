@@ -1,5 +1,17 @@
 [
   {
+    "tag_name": "v0.2.13-macos",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "5yncUp-0.2.13-macOS-arm64.zip",
+        "state": "uploaded",
+        "digest": "sha256:9eb4d7d863ff6fe78ade272f5d7d1a80e675d867b076e353fe54de5489a3f5b0"
+      }
+    ]
+  },
+  {
     "tag_name": "v0.2.12-macos",
     "draft": false,
     "prerelease": false,
